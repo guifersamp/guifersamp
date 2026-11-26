@@ -1,8 +1,8 @@
-### 👋 Software Engineer | Python · Go · GCP · Azure
+### 👋 Software Engineer with 3+ years of experience | Python · Go · GCP · Azure
 
 * **💻 Building APIs, event-driven pipelines, and cloud-native services**
 * **🌩️ Hands-on with GCP (Cloud Run, Pub/Sub, Cloud Functions, BigQuery)**
-* **🔗 Experience integrating pipelines and geospatial data processing**
+* **🔗 Experience integrating pipelines, geospatial data processing ang GenAI document integrations**
 * **📦 Currently deepening expertise in distributed systems and software architecture**
 
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
