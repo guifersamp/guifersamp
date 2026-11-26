@@ -1,4 +1,4 @@
-### 👋 Software Engineer with 3+ years of experience | Python · Go · GCP · Azure
+### 👋 Software Engineer | 3+ years of experience | Python · Go · GCP · Azure
 
 * **💻 Building APIs, event-driven pipelines, and cloud-native services**
 * **🌩️ Hands-on with GCP (Cloud Run, Pub/Sub, Cloud Functions, BigQuery)**
