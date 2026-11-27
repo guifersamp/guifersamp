@@ -2,7 +2,7 @@
 
 * **💻 Building APIs, event-driven pipelines, and cloud-native services**
 * **🌩️ Hands-on with GCP (Cloud Run, Pub/Sub, Cloud Functions, BigQuery)**
-* **🔗 Experience integrating pipelines, geospatial data processing ang GenAI document integrations**
+* **🔗 Experience integrating pipelines, geospatial data processing ang GenAI document workers**
 * **📦 Currently deepening expertise in distributed systems and software architecture**
 
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
